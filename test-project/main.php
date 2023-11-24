@@ -8,6 +8,6 @@ function hello($name) {
 	echo "Hello $name!";
 }
 
-hello('FFOS');
+hello('FFOS gmail');
 
 ?>
